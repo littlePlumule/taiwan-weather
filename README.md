@@ -1,4 +1,5 @@
 # Taiwan Weather
+![](./src/assets/taiwan-weather-img.PNG)
 [demo](https://littleplumule.github.io/taiwan-weather/)
 
 ## Clone
