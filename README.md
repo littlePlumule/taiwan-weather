@@ -7,6 +7,8 @@
 ## Description
 串接[氣象資料開放平台](https://opendata.cwb.gov.tw/index) API 取得台灣地區的天氣資訊
 
+使用 Vite + Vue3 Composition API 製作
+
 功能:
 - 顯示地區天氣
 - 顯示地區最高溫
